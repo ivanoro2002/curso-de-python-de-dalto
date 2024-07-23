@@ -1,0 +1,12 @@
+los datos son:
+nombre:lucas
+ apellido:dalto
+----------nombre:camila
+ apellido:orosco
+----------nombre:ivan
+ apellido:gomez,
+----------nombre:franco
+ apellido:sanchez
+----------nombre:lautaro
+ apellido:gimenez
+----------
